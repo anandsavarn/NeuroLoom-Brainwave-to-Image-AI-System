@@ -11,7 +11,7 @@
 ![Neural Style Transfer](https://img.shields.io/badge/Neural%20Style%20Transfer-AI%20Art-ff69b4?style=for-the-badge)
 ![VR/AR](https://img.shields.io/badge/VR%20%2F%20AR-Immersive-00bcd4?style=for-the-badge)
 
-<br/>
+<br/> 
 
 > **NeuroLoom transforms real-time brainwave signals (EEG) into dynamic, ever-evolving digital artwork using AI — bridging neuroscience, generative art, and human creativity.**
 
