@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0021,50:1a0050,100:4a0080&height=220&section=header&text=NeuroLoom&fontSize=60&fontColor=cc88ff&fontAlignY=36&desc=Brainwave-to-Image%20AI%20System%20%7C%20EEG%20%E2%86%92%20Digital%20Art&descAlignY=58&descColor=e0b3ff&animation=fadeIn" width="100%"/>
 
 <br/>
